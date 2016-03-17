@@ -1,4 +1,4 @@
-# Autolist Extension for [Medium Editor](https://github.com/varun-raj/medium-editor-autolist)
+# Autolist Extension for [Medium Editor](https://github.com/yabwe/medium-editor)
 ### Simple implementation
 **Installation**
 ```
