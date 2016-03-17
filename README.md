@@ -23,6 +23,4 @@ var editor = new MediumEditor('.editable', {
 }),
 ```
 
-### License
 
-MIT: [https://github.com/yabwe/medium-editor/blob/master/LICENSE](https://github.com/yabwe/medium-editor/blob/master/LICENSE)
