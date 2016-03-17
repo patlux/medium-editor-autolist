@@ -1,5 +1,9 @@
 # Autolist Extension for [Medium Editor](https://github.com/varun-raj/medium-editor-autolist)
 ### Simple implementation
+**Installation**
+```
+bower install medium-editor-autolist --save
+```
 
 **Import the javascript**
 
