@@ -1,5 +1,5 @@
-### Autolist Extension for [Medium Editor](https://github.com/varun-raj/medium-editor-autolist)
-#### Simple implementation
+# Autolist Extension for [Medium Editor](https://github.com/varun-raj/medium-editor-autolist)
+### Simple implementation
 
 **Import the javascript**
 
