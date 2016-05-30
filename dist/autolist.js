@@ -21,7 +21,7 @@ var AutoList = MediumEditor.Extension.extend({
             this.base.execAction('insertorderedlist');
             this.base.getSelectedParentElement().textContent = this.base.getSelectedParentElement().textContent.slice(2).trim();
           }
-          else if( list_start == "*" && this.base.getExtensionByName('unorderedlist')){
+          else if( list_start == "-" && this.base.getExtensionByName('unorderedlist')){
             this.base.execAction('insertunorderedlist');
             this.base.getSelectedParentElement().textContent = this.base.getSelectedParentElement().textContent.slice(1).trim();
           }
