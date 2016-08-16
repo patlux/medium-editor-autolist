@@ -1,0 +1,27 @@
+{
+  "name": "medium-editor-autolist",
+  "version": "1.0.0",
+  "description": "An extension for medium editor which auto creates list.",
+  "main": "dist/autolist.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patlux/medium-editor-autolist.git"
+  },
+  "keywords": [
+    "medium-editor",
+    "extension",
+    "autolist"
+  ],
+  "author": "Varun Raj <mailme@varunraj.in>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patlux/medium-editor-autolist/issues"
+  },
+  "homepage": "https://github.com/patlux/medium-editor-autolist#readme"
+}
